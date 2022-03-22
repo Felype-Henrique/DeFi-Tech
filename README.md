@@ -4,12 +4,14 @@ A ideia do projeto, é uma corretora de criptomoedas que mostra seus benefícios
 
 ![Defi-Tech](https://github.com/Felype-Henrique/defi-tech/blob/main/public/readme%20img/defi-tech.gif)
 
+---
+
 ![Defi-Tech-mobile](https://github.com/Felype-Henrique/defi-tech/blob/main/public/readme%20img/defi-tech-mobile.gif)
 
 ---
 # Tecnologias utlilizadas
 
-  -[React js](https://pt-br.reactjs.org/)
+  - [React js](https://pt-br.reactjs.org/)
   - React Icons
 ---
 # Como baixar o projeto 
